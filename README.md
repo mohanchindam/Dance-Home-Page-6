@@ -9,7 +9,7 @@
 ![Project-06 Preview](./Project-06.jpg)
 
 Project is deployed on **Netlify**:
-- You can preview the project here, [**Dance Home Page**]()
+- You can preview the project here, [**Dance Home Page**](https://dance-home-page-6.netlify.app/)
 
 
 
